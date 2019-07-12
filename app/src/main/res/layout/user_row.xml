@@ -34,6 +34,7 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginRight="5dp"
                     android:textSize="14sp"
+
                     tools:text="Hello" />
 
         </LinearLayout>
